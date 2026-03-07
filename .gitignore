@@ -1,0 +1,13 @@
+.env
+venv/
+uploads/
+__pycache__/
+*.pycvenv/
+uploads/
+__pycache__/
+.env
+node_modules/
+frontend/node_modules/
+frontend/build/
+frontend/node_modules/
+frontend/build/
