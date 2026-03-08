@@ -260,4 +260,4 @@ Please provide:
 if __name__ == "__main__":
     port = int(os.getenv("PORT", 5002))
     print(f"🤖 LLM Agent running on http://localhost:{port}")
-    app.run(debug=True, port=port)
+    app.run(host="0.0.0.0", port=port, debug=False)
