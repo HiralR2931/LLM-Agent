@@ -1,7 +1,7 @@
 import { useState } from "react";
 import axios from "axios";
 
-const API = "http://localhost:5002";
+const API = "https://llm-agent-mhw0.onrender.com";
 
 const MODES = [
   { id: "analyze", label: "Full Analysis", icon: "⚡", desc: "Summary + Extract + Insights", color: "#7c3aed" },
