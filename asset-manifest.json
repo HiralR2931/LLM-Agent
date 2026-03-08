@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LLM-Agent/static/css/main.e6c13ad2.css",
+    "main.js": "/LLM-Agent/static/js/main.78423a57.js",
+    "static/js/453.825386d9.chunk.js": "/LLM-Agent/static/js/453.825386d9.chunk.js",
+    "index.html": "/LLM-Agent/index.html",
+    "main.e6c13ad2.css.map": "/LLM-Agent/static/css/main.e6c13ad2.css.map",
+    "main.78423a57.js.map": "/LLM-Agent/static/js/main.78423a57.js.map",
+    "453.825386d9.chunk.js.map": "/LLM-Agent/static/js/453.825386d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.78423a57.js"
+  ]
+}
