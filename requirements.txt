@@ -1,9 +1,5 @@
 flask
 flask-cors
 groq
-langchain
-langchain-community
 pypdf2
 python-dotenv
-faiss-cpu
-sentence-transformers
