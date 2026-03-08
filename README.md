@@ -10,7 +10,9 @@
 A full-stack AI agent that processes documents using **RAG (Retrieval-Augmented Generation)** pipelines powered by **Groq's LLaMA 3**. Upload any PDF or text file and get instant summaries, structured data extraction, intelligent Q&A, and AI-powered writing improvements.
 
 ## 🌐 Live Demo
-👉 **[https://hiralr2931.github.io/LLM-Agent](://hiralr2931.github.io/LLM-Agent)**
+👉 **[https://hiralr2931.github.io/LLM-Agent](https://hiralr2931.github.io/LLM-Agent)**
+
+🔌 **Backend API:** [https://llm-agent-mhw0.onrender.com](https://llm-agent-mhw0.onrender.com)
 
 ---
 
